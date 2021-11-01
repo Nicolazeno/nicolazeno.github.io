@@ -14,7 +14,8 @@
 
 #### *Have we underestimated the incentive effects of fiscal equalization?*
 In this project I investigate whether poopoo.
-- [Project 1 Title](http://example.com/)
+- [Working paper](http://example.com/)
+- [Presentation slides](http://example.com/)
 
 #### Commuting, taxes and income sorting. Evidence from Swiss cities.
 
