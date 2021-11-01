@@ -20,8 +20,6 @@
 
 ---
 
-### Detailed CV
-
 ### Miscelaneous
 
 ---
