@@ -10,9 +10,13 @@
 ---
 
 
-### Detailed CV
+### Work in progress
 
+#### Have we underestimated the incentive effects of fiscal equalization?
 - [Project 1 Title](http://example.com/)
+
+#### Commuting, taxes and income sorting. Evidence from Swiss cities.
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
